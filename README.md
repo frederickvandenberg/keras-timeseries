@@ -2,7 +2,7 @@
 
 > utils.config and utils.db_toolbox functions <b><u>are not</u></b> provided!
 
-Two inputs, historic price and media frequency, fed into Long Short-Term Memory (LSTM) cells trying to detect long-term dependencies in the data.
+Two inputs, gold price and media frequency, fed into Long Short-Term Memory (LSTM) cells trying to detect long-term dependencies in the data.
 
 > Todo: Run Monte Carlo to assess trend probability and variance in RMSE.
 
