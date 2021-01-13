@@ -4,8 +4,6 @@
 
 Two inputs, gold price and media frequency, fed into Long Short-Term Memory (LSTM) cells trying to detect long-term dependencies in the data.
 
-> Todo: Run Monte Carlo to assess trend probability and variance in RMSE.
-
 ![Opps, Not found!](https://github.com/frederickvandenberg/keras-timeseries/blob/main/images/model_summary.png)
 
 ### Loss output:
